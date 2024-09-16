@@ -1,0 +1,30 @@
+the formula for t test : 
+t = (x̄ – μ) / (σ / √n)
+
+Where,
+
+t is the t-value,
+x̄ is the Sample mean,
+μ is the Population mean,
+σ is the Sample standard deviation, and
+n is the Sample size.
+
+sample mean -
+The sample mean, often denoted by x bar  , is a measure of central tendency that represents the average value of a set of data points in a sample. It is calculated by summing up all the values in the sample and then dividing by the total number of observations in the sample.
+
+
+population mean - 
+The population mean, often denoted by the Greek letter μ, is a statistical measure that represents the average value of a variable in an entire population.
+
+
+sample standard deviation - 
+The sample standard deviation is a measure of the dispersion or spread of data points within a sample. It quantifies the average deviation of data points from the sample mean.
+
+r squarred -
+R-squared (R²) is a statistical measure that represents the proportion of the variance in the dependent variable that is predictable from the independent variables in a regression model. In other words, it measures the goodness of fit of the model.
+
+Ordinary least squared-
+Ordinary Least Squares (OLS) is a method used in linear regression analysis to estimate the parameters of a linear model. It is one of the most common and widely used regression techniques due to its simplicity and effectiveness.
+
+t value - 
+In statistics, the t-value (or t-statistic) is a measure used to assess the statistical significance of the difference between the observed mean of a sample and a hypothetical population mean or the difference between two sample means
